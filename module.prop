@@ -1,0 +1,6 @@
+id=android17_flac_decoder_fix
+name=Android 17 FLAC Decoder Fix
+version=1.0
+versionCode=1
+author=Bwahoji
+description=Raises the AOSP Codec2 FLAC decoder input buffer from 32 KiB to 128 KiB when the matching decoder library is detected.
